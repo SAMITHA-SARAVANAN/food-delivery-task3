@@ -25,3 +25,13 @@ This repository contains the source code for a food delivery website. Customers 
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
 - Payment: [Stripe](https://stripe.com)
+
+## Installation
+1. Clone the repository: `git clone https://github.com/your-username/food-delivery.git`
+2. Navigate to the project directory: `cd food-delivery`
+3. Install dependencies for the frontend and backend:
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
